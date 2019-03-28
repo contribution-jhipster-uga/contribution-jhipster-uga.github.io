@@ -1,7 +1,7 @@
 # Contribution JHipster UGA
 Generators for [JHipster](https://www.jhipster.tech).
 
-## Generators
+## Generators (aka Modules)
 ### generator-jhipster-stripe-payment
 This JHipster generator integrates the payment plateform [Stripe](https://stripe.com) to a Jhipster project. (It includes a web payment page and a JHipster payment entity).
 + [repository](https://github.com/contribution-jhipster-uga/generator-jhipster-stripe-payment)
