@@ -40,3 +40,6 @@ This JHipster generator integrates an interface to be use with bot using the [Ra
  + [Tiny-MCE](https://www.tiny.cloud/) for editing TextBlob attributes
 
 ### Hyperledger Blockchain
+
+## Contributors
+
