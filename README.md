@@ -66,6 +66,11 @@ This JHipster generator integrates an interface to be use with bot using the [Ra
  + [Tiny-MCE](https://www.tiny.cloud/) for editing TextBlob attributes
 
 ### Hyperledger Blockchain
++ https://gitlab.com/ugachain/generator-jhipster-blockchain
+
+### CAS generator
++ https://github.com/apereo/cas
++ https://github.com/rohajda/casdemo
 
 ## Contributors
 + https://github.com/orgs/contribution-jhipster-uga/people
