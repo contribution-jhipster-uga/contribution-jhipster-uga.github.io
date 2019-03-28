@@ -38,3 +38,5 @@ This JHipster generator integrates an interface to be use with bot using the [Ra
 ### Rich Editor generators
  + [CKEditor](https://ckeditor.com/) for editing TextBlob attributes
  + [Tiny-MCE](https://www.tiny.cloud/) for editing TextBlob attributes
+
+### Hyperledger Blockchain
