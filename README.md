@@ -5,6 +5,6 @@ Generators for JHipster
 
 
 ## Future generators
-** Rich Editor generators
-*** [CKEditor](https://ckeditor.com/) for editing TextBlob attributes
-*** [Tiny-MCE](https://www.tiny.cloud/) for editing TextBlob attributes
+### Rich Editor generators
+ + [CKEditor](https://ckeditor.com/) for editing TextBlob attributes
+ + [Tiny-MCE](https://www.tiny.cloud/) for editing TextBlob attributes
