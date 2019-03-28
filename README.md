@@ -42,4 +42,5 @@ This JHipster generator integrates an interface to be use with bot using the [Ra
 ### Hyperledger Blockchain
 
 ## Contributors
++ https://github.com/orgs/contribution-jhipster-uga/people
 
