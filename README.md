@@ -1,5 +1,7 @@
-# Contribution JHipster UGA
-Generators for [JHipster](https://www.jhipster.tech).
+# Contributions JHipster UGA
+Generators for [JHipster](https://www.jhipster.tech) generators developed by [Polytech Grenoble](https://www.polytech-grenoble.fr/) students.
+
+[Web site](https://contribution-jhipster-uga.github.io/)
 
 ## Generators (aka Modules)
 ### generator-jhipster-stripe-payment
