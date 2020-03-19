@@ -74,6 +74,9 @@ This JHipster generator integrates an interface to be use with bot using the [Ra
 + https://github.com/apereo/cas
 + https://github.com/rohajda/casdemo
 
+### Hybrid Relational/JSON Data Modeling and Querying
++ new field type (JSON) for MariaDB [Hybrid Relational/JSON Data Modeling and Querying Refcard](https://dzone.com/storage/assets/13138279-dzone-refcard-json-data-modeling-325.pdf)
+
 ## Contributors
 + https://github.com/orgs/contribution-jhipster-uga/people
 
