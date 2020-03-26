@@ -62,6 +62,28 @@ This JHipster generator integrates an interface to be use with bot using the [Ra
 + License
 + Application sample
 
+### generator-jhipster-imageblobindexation
+This module allows you to use image Blob type with a full text indexation by Elasticsearch. This indexation is based on a treatment provide by ImageAI, Apache Tika (Metadata, OCR).  
+This module includes cache management available at : [ImageBlobCache](https://github.com/contribution-jhipster-uga/generator-jhipster-imageblobcache).
++ [repository](https://github.com/contribution-jhipster-uga/generator-jhipster-indexation-imageblobcache)
++ [JHipster marketplace](https://www.jhipster.tech/modules/marketplace/#/details/generator-jhipster-imageblobindexation)
++ [License Apache 2.0](https://github.com/contribution-jhipster-uga/generator-jhipster-indexation-imageblobcache/blob/dev/LICENSE)
++ [Application sample](https://github.com/contribution-jhipster-uga/sample-lazyblob/tree/dev)
+
+### generator-jhipster-imageblobcache
+Jhipster module which allows users to inplement ImageBlob with cache management. 
++ [repository](https://github.com/contribution-jhipster-uga/generator-jhipster-imageblobcache)
++ [JHipster marketplace](https://www.jhipster.tech/modules/marketplace/#/details/generator-jhipster-imageblobcache)
++ License
++ [Application sample](https://github.com/contribution-jhipster-uga/sample-lazyblob/tree/dev)
+
+### generator-jhipster-ngx-charts
+This module allows you to use simple entry, multiple entry charts and bubble chart directly. After installation, you will find examples of how to use the charts. The data's retrieving process works, so you can implement each type of chart very easly.
++ [repository](https://github.com/contribution-jhipster-uga/generator-jhipster-ngx-charts)
++ [JHipster marketplace](https://www.jhipster.tech/modules/marketplace/#/details/generator-jhipster-ngx-charts)
++ [License Apache 2.0](https://github.com/contribution-jhipster-uga/generator-jhipster-ngx-charts/blob/master/LICENSE)
++ [Application sample](https://github.com/contribution-jhipster-uga/sample-jhipster-charts)
+
 ## Future generators
 ### Rich Editor generators
  + [CKEditor](https://ckeditor.com/) for editing TextBlob attributes
